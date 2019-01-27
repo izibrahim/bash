@@ -1,6 +1,7 @@
 from netmiko import ConnectHandler
 from getpass import getpass
 
+# this is belong to Pynet course
 
 """
 device1 = {
