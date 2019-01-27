@@ -34,3 +34,4 @@ with open("output.txt", "w") as f:
   f.write(output)
 
 print("hello")
+print("hi")
