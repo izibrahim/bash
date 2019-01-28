@@ -1,7 +1,6 @@
 from netmiko import ConnectHandler
 from getpass import getpass
 
-# this is belong to Pynet course
 
 """
 device1 = {
@@ -35,4 +34,3 @@ with open("output.txt", "w") as f:
   f.write(output)
 
 print("hello")
-print("hi")
